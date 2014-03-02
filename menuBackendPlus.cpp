@@ -1,4 +1,4 @@
-/* $Id: menuBackendPlus.cpp 1198 2011-06-14 21:08:27Z bhagman $
+/* $Id: MenuBackend.cpp 1198 2011-06-14 21:08:27Z bhagman $
 ||
 || @author         Alexander Brevig <abrevig@wiring.org.co>
 || @url            http://wiring.org.co/
@@ -16,7 +16,7 @@
 ||
 */
 
-#include "menuBackendPlus.h"
+#include "MenuBackend.h"
 
 void MenuItem::setValue(int v)
 {
